@@ -15,7 +15,7 @@ body{
 
 }
 nav ul{
-    display:fleax;
+    display:flex;
     height:100%;
     padding:0;
     flex-wrap:wrap;
